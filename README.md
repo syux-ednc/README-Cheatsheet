@@ -2,13 +2,14 @@
 
 This is a cheatsheet to refer to when creating projects with brief writeup / setup guides.
 
-## Table of Contents
+## Table of Content
 
-- [Create Table](#create-table)
-- [Create Code Block](#create-code-block)
-- [HyperLinks](#hyperlinks)
-  - [External URLs](#external-urls)
-  - [Within repo folder](#within-repo-folder)
+- [Table of Content](#table-of-content)
+  - [Create Table](#create-table)
+  - [Create Code Block](#create-code-block)
+  - [HyperLinks](#hyperlinks)
+    - [External URLs](#external-urls)
+    - [Within repo folder](#within-repo-folder)
 
 ## Create Table
 
