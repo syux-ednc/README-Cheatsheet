@@ -18,7 +18,10 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 
 ### Create Code Block
 
-
+```
+private String username;
+private String password;
+```
 
 ### HyperLinks
 
