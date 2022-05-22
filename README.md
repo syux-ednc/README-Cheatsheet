@@ -6,10 +6,16 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 
 - [Create Table](#create-table)
 - [Create Code Block](#create-code-block)
-- [Link assets folder](#link-assets-folder)
+- [HyperLinks](#hyperlinks)
+  - [External URLs](#external-urls)
+  - [Within repo folder](#within-repo)
 
 ### Creating a Table
 
 ### Creating a Code Block
 
-### Link assets folder
+### HyperLinks
+
+#### External URLs
+
+#### Within Repo Folder
