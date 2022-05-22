@@ -10,27 +10,27 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
   - [External URLs](#external-urls)
   - [Within repo folder](#within-repo-folder)
 
-### Create Table
+## Create Table
 
 | NAME: `varchar` | USERNAME (p_key): `varchar` | PASSWORD: `varchar` | BALANCE: `number` |
 | :-------------: | :-------------------------: | :-----------------: | :---------------: |
 | Nico Robin | nico_robin | password123 | 1000 |
 
-### Create Code Block
+## Create Code Block
 
 ```
 private String username;
 private String password;
 ```
 
-### HyperLinks
+## HyperLinks
 
 
 
-#### External URLs
+### External URLs
 
 
 
-#### Within Repo Folder
+### Within Repo Folder
 
 
