@@ -4,10 +4,12 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 
 ## Table of Contents
 
-- 1. [Creating A Table](#create-table)
-- 2. [Creating A Code Block](#create-code-block)
+- [Create Table](#create-table)
+- [Create Code Block](#create-code-block)
+- [Link assets folder](#link-assets-folder)
 
 ### Creating a Table
 
 ### Creating a Code Block
 
+### Link assets folder
