@@ -8,15 +8,15 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 - [Create Code Block](#create-code-block)
 - [HyperLinks](#hyperlinks)
   - [External URLs](#external-urls)
-  - [Within repo folder](#within-repo)
+  - [Within repo folder](#within-repo-folder)
 
-### Creating a Table
+### Create Table
 
 | NAME: `varchar` | USERNAME (p_key): `varchar` | PASSWORD: `varchar` | BALANCE: `number` |
 | :-------------: | :-------------------------: | :-----------------: | :---------------: |
 | Nico Robin | nico_robin | password123 | 1000 |
 
-### Creating a Code Block
+### Create Code Block
 
 
 
