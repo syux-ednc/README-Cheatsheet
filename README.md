@@ -78,7 +78,7 @@ example.com (but not on Github, for example).
 
 [Reference-style link][This is a custom-ref key]
 
-[Relative reference to a repository file](../assets/files/testing.txt)
+[Relative reference to a repository file](assets/files/testing.txt)
 
 [Number Reference-style link][1]
 
