@@ -18,9 +18,14 @@ This is a **bold** text. Alternatively, you can also __bold__ text like this.
 
 This is a _italic_ text.
 
-You can combine bold and italic text _like this_**.
+You can combine bold and italic text **_like this_**.
 
 This is a ~~strikethrough~~ text.
+
+Unordered list can use:
+* Asterisk Sign
+- Minus Sign 
++ Plus Sign
 
 ## Create Table
 
