@@ -8,7 +8,7 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
   - [Basic Stuff](#basic-stuff)
   - [Create Blockquotes](#create-blockquotes)
   - [Create Table](#create-table)
-  - [Create Code Block](#create-code-block)
+  - [Create Code](#create-code)
   - [HyperLinks](#hyperlinks)
     - [External URLs](#external-urls)
     - [Within repo folder](#within-repo-folder)
@@ -45,7 +45,7 @@ The table row contents need not be aligned with spacing like the title. You can 
 | Sanji Vinsmoke | sanji_vinsmoke | dragon123 | 3000 |
 | Zoro Rorona | zoro_rorona | sword123 | 4000 |
 
-## Create Code Block
+## Create Code
 
 You can include line code like this `pip install pandas` in a paragraph using backticks.
 
