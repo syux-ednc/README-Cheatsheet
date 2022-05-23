@@ -37,6 +37,8 @@ Unordered list can use:
 
 You can include line code like this `pip install pandas` in a paragraph using backticks.
 
+Alternatively, you can write block codes in paragraphs using the triple backticks like this:
+
 ```
 private String username;
 private String password;
