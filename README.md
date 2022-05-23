@@ -34,9 +34,14 @@ Unordered list can use:
 
 ## Create Table
 
+You can create table by using the "|" pipe symbol together with the header separator ":---:".
+
+The table row contents need not be aligned with spacing like the title. You can just compact it.
+
 | NAME: `varchar` | USERNAME (p_key): `varchar` | PASSWORD: `varchar` | BALANCE: `number` |
 | :-------------: | :-------------------------: | :-----------------: | :---------------: |
 | Nico Robin | nico_robin | password123 | 1000 |
+| Tony Chopper | tony_chopper | asdf123 | 2000 |
 
 ## Create Code Block
 
