@@ -23,17 +23,17 @@ You can combine bold and italic text **_like this_**.
 This is a ~~strikethrough~~ text.
 
 Unordered list can use:
-* Asterisk Sign
-- Minus Sign 
-+ Plus Sign
+* Asterisk Sign "*"
+- Minus Sign "-"
++ Plus Sign "+"
 
 ## Create Blockquotes
 
-> You can create blockquotes(a line separator at the left hand side) using the ">" symbol. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum lorem quam, nec maximus magna sollicitudin ut. Vestibulum varius quam elit, ac tempus dui iaculis vel. Mauris et suscipit nibh. 
+> You can create blockquotes (a line separator at the left hand side) using the ">" symbol. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum lorem quam, nec maximus magna sollicitudin ut. Vestibulum varius quam elit, ac tempus dui iaculis vel. Mauris et suscipit nibh. 
 
 ## Create Table
 
-You can create table by using the "|" pipe symbol together with the header separator ":---:".
+You can create table by using the "|" pipe symbol together with the header separator "----" or ":---:" (for center-aligning) .
 
 The table row contents need not be aligned with spacing like the title. You can just compact it.
 
@@ -50,7 +50,7 @@ You can include line code like this `pip install pandas` in a paragraph using ba
 
 Alternatively, you can write block codes in paragraphs using the triple backticks like this:
 
-```
+```java
 private String username;
 private String password;
 ```
@@ -70,8 +70,8 @@ print s
 ## HyperLinks
 
 URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+http://www.google.com or <http://www.google.com> and sometimes 
+google.com (but not on Github, for example).
 
 [Inline-style link](https://www.google.com)
 
@@ -83,11 +83,8 @@ example.com (but not on Github, for example).
 
 [Number Reference-style link][1]
 
-Or leave it empty and use the [link text itself].
-
 [This is a custom-ref key]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 ## Images
 
