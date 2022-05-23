@@ -5,11 +5,22 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 ## Table of Content
 
 - [Table of Content](#table-of-content)
+  - [Basic Stuff](#basic-stuff)
   - [Create Table](#create-table)
   - [Create Code Block](#create-code-block)
   - [HyperLinks](#hyperlinks)
     - [External URLs](#external-urls)
     - [Within repo folder](#within-repo-folder)
+
+## Basic Stuff
+
+This is a **bold** text. Alternatively, you can also __bold__ text like this.
+
+This is a _italic_ text.
+
+You can combine bold and italic text _like this_**.
+
+This is a ~~strikethrough~~ text.
 
 ## Create Table
 
