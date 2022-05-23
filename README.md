@@ -10,8 +10,6 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
   - [Create Table](#create-table)
   - [Create Code](#create-code)
   - [HyperLinks](#hyperlinks)
-    - [External URLs](#external-urls)
-    - [Within repo folder](#within-repo-folder)
 
 ## Basic Stuff
 
@@ -70,13 +68,22 @@ print s
 
 ## HyperLinks
 
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
 
+[Inline-style link](https://www.google.com)
 
-### External URLs
+[Inline-style link with title when hover](https://www.google.com "Google's Homepage")
 
+[Reference-style link][This is a custom-ref key]
 
+[Relative reference to a repository file](../syux-ednc/master/assets/file/.txt)
 
-### Within Repo Folder
+[Number Reference-style link][1]
 
-https://raw.githubusercontent.com/syux-ednc/README-Cheatsheet/master/assets/images/Wallpaper.jpg?token=GHSAT0AAAAAABU2NYXCJG3TCXMSTASTSWPYYUKKMJA
+Or leave it empty and use the [link text itself].
 
+[This is a custom-ref key]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
