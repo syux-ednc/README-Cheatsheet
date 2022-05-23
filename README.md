@@ -6,7 +6,7 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
 
 - [Table of Content](#table-of-content)
   - [Basic Stuff](#basic-stuff)
-  - [Create Nice Description](#create-nice-description)
+  - [Create Blockquotes](#create-blockquotes)
   - [Create Table](#create-table)
   - [Create Code Block](#create-code-block)
   - [HyperLinks](#hyperlinks)
@@ -28,9 +28,9 @@ Unordered list can use:
 - Minus Sign 
 + Plus Sign
 
-## Create Nice Description
+## Create Blockquotes
 
-> You can create nice description with a line separator at the left hand side using the ">" symbol. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum lorem quam, nec maximus magna sollicitudin ut. Vestibulum varius quam elit, ac tempus dui iaculis vel. Mauris et suscipit nibh. 
+> You can create blockquotes(a line separator at the left hand side) using the ">" symbol. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum lorem quam, nec maximus magna sollicitudin ut. Vestibulum varius quam elit, ac tempus dui iaculis vel. Mauris et suscipit nibh. 
 
 ## Create Table
 
