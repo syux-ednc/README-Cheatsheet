@@ -56,6 +56,18 @@ private String username;
 private String password;
 ```
 
+You can also include syntax highlighting for specific programming languages (need check which are supported) or other code related stuff (E.g. HTTP headers) as shown below:
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 ## HyperLinks
 
 
