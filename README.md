@@ -91,12 +91,15 @@ Or leave it empty and use the [link text itself].
 
 ## Images
 
-Here's our logo (hover to see the title text):
+Using normal hyperlink with hover (hover to see the title text):
 
 Inline-style: 
 ![alt text](https://github.com/syux-ednc/README-Cheatsheet/blob/master/assets/images/Wallpaper.jpg "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
+Using html tag:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joshenlim/live-text-recognition/master/screenshots/ss_2.png" width="500px" style="display: block; margin: 0 auto"/>
+</p>
 
-[logo]: https://github.com/syux-ednc/README-Cheatsheet/blob/master/assets/images/Wallpaper.jpg "Logo Title Text 2"
+
+
