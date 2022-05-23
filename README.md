@@ -35,6 +35,8 @@ Unordered list can use:
 
 ## Create Code Block
 
+You can include line code like this `pip install pandas` in a paragraph using backticks.
+
 ```
 private String username;
 private String password;
