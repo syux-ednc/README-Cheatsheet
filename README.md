@@ -42,6 +42,8 @@ The table row contents need not be aligned with spacing like the title. You can 
 | :-------------: | :-------------------------: | :-----------------: | :---------------: |
 | Nico Robin | nico_robin | password123 | 1000 |
 | Tony Chopper | tony_chopper | asdf123 | 2000 |
+| Sanji Vinsmoke | sanji_vinsmoke | dragon123 | 3000 |
+| Zoro Rorona | zoro_rorona | sword123 | 4000 |
 
 ## Create Code Block
 
