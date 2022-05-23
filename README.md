@@ -10,6 +10,7 @@ This is a cheatsheet to refer to when creating projects with brief writeup / set
   - [Create Table](#create-table)
   - [Create Code](#create-code)
   - [HyperLinks](#hyperlinks)
+  - [Images](#images)
 
 ## Basic Stuff
 
@@ -87,3 +88,15 @@ Or leave it empty and use the [link text itself].
 [This is a custom-ref key]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+## Images
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/syux-ednc/README-Cheatsheet/blob/master/assets/images/Wallpaper.jpg "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/syux-ednc/README-Cheatsheet/blob/master/assets/images/Wallpaper.jpg "Logo Title Text 2"
