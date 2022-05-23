@@ -98,7 +98,7 @@ Inline-style:
 
 Using html tag:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshenlim/live-text-recognition/master/screenshots/ss_2.png" width="500px" style="display: block; margin: 0 auto"/>
+  <img src="https://raw.githubusercontent.com/syux-ednc/README-Cheatsheet/master/assets/images/Wallpaper.jpg" width="500px" style="display: block; margin: 0 auto"/>
 </p>
 
 
