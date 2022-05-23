@@ -94,7 +94,7 @@ Or leave it empty and use the [link text itself].
 Using normal hyperlink with hover (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/syux-ednc/README-Cheatsheet/blob/master/assets/images/Wallpaper.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/syux-ednc/README-Cheatsheet/master/assets/images/Wallpaper.jpg "Logo Title Text 1")
 
 Using html tag:
 <p align="center">
